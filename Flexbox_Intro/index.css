@@ -1,0 +1,17 @@
+.container {
+  border: 5px solid #ffcc5c;
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content:center; */
+  /* align-items:flex-end; */
+}
+.red{
+  background-color:red;
+
+}
+.home
+{
+  display:flex;
+}
+
+
